@@ -1,2 +1,2 @@
-# AES_SeguridadIndormatica
+# AES_SeguridadInformatica
 Proyecto final
